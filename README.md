@@ -23,11 +23,10 @@ N/A
 
 ## Technologies
 
-Technologies used are *Javascript *HTML *CSS
-
-## Screenshot
-
-![Screenshot]()
+Technologies used are 
+*Javascript 
+*HTML 
+*CSS
 
 ## Active Url
 
